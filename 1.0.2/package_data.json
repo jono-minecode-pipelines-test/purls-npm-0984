@@ -1,0 +1,77 @@
+{
+    "name": "00bx-photoshop-mcp",
+    "version": "1.0.2",
+    "keywords": [
+        "mcp",
+        "photoshop",
+        "adobe",
+        "ai",
+        "opencode",
+        "design",
+        "automation",
+        "creative",
+        "graphics",
+        "image-editing",
+        "firefly"
+    ],
+    "author": {
+        "name": "00bx"
+    },
+    "license": "MIT",
+    "_id": "00bx-photoshop-mcp@1.0.2",
+    "maintainers": [
+        {
+            "name": "00bx",
+            "email": "zamanagha68@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/00bx/00bx-photoshop-mcp#readme",
+    "bugs": {
+        "url": "https://github.com/00bx/00bx-photoshop-mcp/issues"
+    },
+    "os": [
+        "darwin"
+    ],
+    "bin": {
+        "00bx-photoshop-mcp": "index.js",
+        "00bx-photoshop-mcp-install": "install.sh"
+    },
+    "dist": {
+        "shasum": "e3b4df01ead647fdf00e7be060585d815cce283b",
+        "tarball": "https://registry.npmjs.org/00bx-photoshop-mcp/-/00bx-photoshop-mcp-1.0.2.tgz",
+        "fileCount": 74,
+        "integrity": "sha512-wOb4A6rFv91se9jdI7T24GzK5Z/nejfahr0tda6rILUYHl68DJHOVLf/KR5U2djeRvg4tvvFkre9jqD0kFXdUA==",
+        "signatures": [
+            {
+                "sig": "MEUCIDukDdmqa166U7FoJS1/2/BzqUi5N0AL3q2yQ7TT/HGAAiEAkQqSYeO1M29/zMRlS9Jwzvm7lwen4FHQAW9hvOreK98=",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 1277282
+    },
+    "main": "index.js",
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "gitHead": "08a76fa6b0b0304de51d5968bfa1fac7c415417a",
+    "scripts": {
+        "postinstall": "echo '========================================' && echo '  00bx-photoshop-mcp installed!' && echo '========================================' && echo '' && echo 'Run the installer to complete setup:' && echo '' && echo '  00bx-photoshop-mcp-install' && echo '' && echo 'This will also install the OpenCode skill!' && echo ''"
+    },
+    "_npmUser": {
+        "name": "00bx",
+        "email": "zamanagha68@gmail.com"
+    },
+    "repository": {
+        "url": "git+https://github.com/00bx/00bx-photoshop-mcp.git",
+        "type": "git"
+    },
+    "_npmVersion": "10.8.2",
+    "description": "MCP server for Adobe Photoshop control via AI. 171 tools for design automation.",
+    "directories": {},
+    "_nodeVersion": "18.20.8",
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/00bx-photoshop-mcp_1.0.2_1770735134516_0.32318209744591764",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}

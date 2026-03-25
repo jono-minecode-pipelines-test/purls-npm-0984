@@ -1,0 +1,66 @@
+{
+    "name": "00bx-photoshop-mcp",
+    "version": "1.0.0",
+    "keywords": [
+        "mcp",
+        "photoshop",
+        "adobe",
+        "ai",
+        "opencode",
+        "design",
+        "automation"
+    ],
+    "author": {
+        "name": "00bx"
+    },
+    "license": "MIT",
+    "_id": "00bx-photoshop-mcp@1.0.0",
+    "maintainers": [
+        {
+            "name": "00bx",
+            "email": "zamanagha68@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/00bx/00bx-photoshop-mcp#readme",
+    "bugs": {
+        "url": "https://github.com/00bx/00bx-photoshop-mcp/issues"
+    },
+    "bin": {
+        "00bx-photoshop-mcp-install": "install.sh"
+    },
+    "dist": {
+        "shasum": "5d18ff2ba85fbf07a6a8287316cd7a89b24012f1",
+        "tarball": "https://registry.npmjs.org/00bx-photoshop-mcp/-/00bx-photoshop-mcp-1.0.0.tgz",
+        "fileCount": 72,
+        "integrity": "sha512-egNFwzW4tWvtmsogA4wV6KL9puWPuAzqZq+8BoCgeST96we89HcxHn8b9vY5HmwycMiI/1pC822obRMFdC3G/w==",
+        "signatures": [
+            {
+                "sig": "MEUCIQCDzECWJRmx036qf95LVn7RkYdQbmLaUQeXc1D55EsDAQIgR4WrzOexxpWCdn7k/2kXxVKxNVYlYFSkTMFsYf509q8=",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 1730817
+    },
+    "main": "index.js",
+    "gitHead": "d7b7a1602f1fe82b217999d462bbc4de4ce566b6",
+    "scripts": {
+        "postinstall": "echo 'Run: 00bx-photoshop-mcp-install to complete setup'"
+    },
+    "_npmUser": {
+        "name": "00bx",
+        "email": "zamanagha68@gmail.com"
+    },
+    "repository": {
+        "url": "git+https://github.com/00bx/00bx-photoshop-mcp.git",
+        "type": "git"
+    },
+    "_npmVersion": "10.8.2",
+    "description": "MCP server for Adobe Photoshop control via AI. 171 tools for design automation.",
+    "directories": {},
+    "_nodeVersion": "18.20.8",
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/00bx-photoshop-mcp_1.0.0_1770728855645_0.7312462389677512",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}

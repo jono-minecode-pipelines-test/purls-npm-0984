@@ -1,0 +1,75 @@
+{
+    "name": "00bx-photoshop-mcp",
+    "version": "1.1.0",
+    "keywords": [
+        "mcp",
+        "photoshop",
+        "adobe",
+        "ai",
+        "opencode",
+        "design",
+        "automation",
+        "creative",
+        "graphics",
+        "image-editing",
+        "firefly",
+        "batchplay"
+    ],
+    "author": {
+        "name": "00bx"
+    },
+    "license": "MIT",
+    "_id": "00bx-photoshop-mcp@1.1.0",
+    "maintainers": [
+        {
+            "name": "00bx",
+            "email": "zamanagha68@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/00bx/00bx-photoshop-mcp#readme",
+    "bugs": {
+        "url": "https://github.com/00bx/00bx-photoshop-mcp/issues"
+    },
+    "bin": {
+        "00bx-photoshop-mcp": "index.js",
+        "00bx-photoshop-mcp-install": "install.sh"
+    },
+    "dist": {
+        "shasum": "d6b2163ee3930bcafd00dafcc58ea5c97a2aa772",
+        "tarball": "https://registry.npmjs.org/00bx-photoshop-mcp/-/00bx-photoshop-mcp-1.1.0.tgz",
+        "fileCount": 80,
+        "integrity": "sha512-HD5lDVSmWhEWML+ilQeDaKj/AEgxLDGnYh/p6HoTWLfhx+wThO+vhHffpfejwU9sbwpObYhsBDh2gcZ3iqykzg==",
+        "signatures": [
+            {
+                "sig": "MEUCIAXrw3UtlLJ9okd8WrLyMCM0TWOusZ3ngEeqviXJ2a/JAiEAxufXWyRHx9A7Zk2GmjeRXu1SDdBv14Dr5Vud+EJh3ZI=",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 1416729
+    },
+    "main": "index.js",
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "gitHead": "3b57952556ebcfa7e00d9ab622e51152176a6e0e",
+    "scripts": {
+        "postinstall": "echo '' && echo '   ____  ____  ____ _  __' && echo '  / __ \\/ __ \\/ __ ) |/ /' && echo ' / / / / / / / __  |   / ' && echo '/ /_/ / /_/ / /_/ /   |  ' && echo '\\____/\\____/_____/_/|_|  ' && echo '' && echo '  photoshop-mcp v1.1.0' && echo '  \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500' && echo '  323 tools \u00b7 7 AI skills \u00b7 batchPlay' && echo '' && echo '  Next step:' && echo '    00bx-photoshop-mcp-install' && echo '' && echo '  github.com/00bx/00bx-photoshop-mcp' && echo ''"
+    },
+    "_npmUser": {
+        "name": "00bx",
+        "email": "zamanagha68@gmail.com"
+    },
+    "repository": {
+        "url": "git+https://github.com/00bx/00bx-photoshop-mcp.git",
+        "type": "git"
+    },
+    "_npmVersion": "10.8.2",
+    "description": "MCP server for Adobe Photoshop. 323 tools + 7 AI skills for design automation.",
+    "directories": {},
+    "_nodeVersion": "18.20.8",
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/00bx-photoshop-mcp_1.1.0_1770766608533_0.024900526456835825",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}

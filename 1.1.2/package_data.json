@@ -1,0 +1,75 @@
+{
+    "name": "00bx-photoshop-mcp",
+    "version": "1.1.2",
+    "description": "MCP server for Adobe Photoshop. 323 tools + 7 AI skills for design automation.",
+    "main": "index.js",
+    "bin": {
+        "00bx-photoshop-mcp": "index.js",
+        "00bx-photoshop-mcp-install": "install.sh"
+    },
+    "scripts": {
+        "postinstall": "echo '' && echo '   ____  ____  ____ _  __' && echo '  / __ \\/ __ \\/ __ ) |/ /' && echo ' / / / / / / / __  |   / ' && echo '/ /_/ / /_/ / /_/ /   |  ' && echo '\\____/\\____/_____/_/|_|  ' && echo '' && echo '  photoshop-mcp v1.1.2' && echo '  \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500' && echo '  323 tools \u00b7 7 AI skills \u00b7 batchPlay' && echo '' && echo '  Next step:' && echo '    00bx-photoshop-mcp-install' && echo '' && echo '  github.com/00bx/00bx-photoshop-mcp' && echo ''"
+    },
+    "keywords": [
+        "mcp",
+        "photoshop",
+        "adobe",
+        "ai",
+        "opencode",
+        "design",
+        "automation",
+        "creative",
+        "graphics",
+        "image-editing",
+        "firefly",
+        "batchplay"
+    ],
+    "author": {
+        "name": "00bx"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/00bx/00bx-photoshop-mcp.git"
+    },
+    "homepage": "https://github.com/00bx/00bx-photoshop-mcp#readme",
+    "bugs": {
+        "url": "https://github.com/00bx/00bx-photoshop-mcp/issues"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "_id": "00bx-photoshop-mcp@1.1.2",
+    "gitHead": "6c25edfaf62ca78f05d340af87fb99dd0e3ad76f",
+    "_nodeVersion": "18.20.8",
+    "_npmVersion": "10.8.2",
+    "dist": {
+        "integrity": "sha512-p5TsjkkcVUPL4Fa/nH8OZya0WL8fNrPLJg1sjjyk+8mDog/UeM6UagMuMEKXG4l39RiEKeB9gzYz/AeeoW8pqg==",
+        "shasum": "e21a2e787fbd08ac267b9af575437f78808049a2",
+        "tarball": "https://registry.npmjs.org/00bx-photoshop-mcp/-/00bx-photoshop-mcp-1.1.2.tgz",
+        "fileCount": 81,
+        "unpackedSize": 2474231,
+        "signatures": [
+            {
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                "sig": "MEQCIFyx7/y4PC7OsGYWNQtF057y3YCAKYdS4gPuKAFAJx5WAiBippwzc5QNeyNtjMJUWB0GcnipcUZTmAgKHrrPhDt3/g=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "00bx",
+        "email": "zamanagha68@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "00bx",
+            "email": "zamanagha68@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/00bx-photoshop-mcp_1.1.2_1770769186130_0.9220506237934185"
+    },
+    "_hasShrinkwrap": false
+}
